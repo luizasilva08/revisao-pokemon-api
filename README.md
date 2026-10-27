@@ -64,8 +64,7 @@ revisao-pokemon-api/
 
 | Arquivo | Responsabilidade |
 |---|---|
-| `pokemon_service.py` | **Lógica principal.** Consulta a PokéAPI, trata erros e estrutura os dados. Não depende do Streamlit. |
-| `app_pokedex.py` | **Front-end.** Contém apenas a interface, dividida em funções por componente. |
+| `streamlit_pokemon.py` | **Front-end.** Contém apenas a interface, dividida em funções por componente. |
 
 </details>
 
