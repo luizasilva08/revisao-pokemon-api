@@ -1,4 +1,4 @@
-import requests
+import requests          #api sem flask
 
 def consultar_pokemon():
     url = "https://pokeapi.co/api/v2/pokemon/pikachu"
